@@ -1,2 +1,2 @@
 # cpptestproject
-this file is created in propose of testing my git ability, thanks God to help me to do that
+this file is created in propose of testing my git and thank God To Help Me to Do This
